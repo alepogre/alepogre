@@ -1,6 +1,6 @@
 ## Hi there, I'm Alex 👋
 
-**Program Manager** with 7+ years in digital transformation and product management with a background in Information Systems background.
+**Program Manager** with 7+ years in digital transformation and product management with a background in Information Systems.
 
 I build automation scripts and web apps (because waiting for IT tickets is for people with more patience than me 🤷‍♂️). 
 
