@@ -10,7 +10,8 @@ Currently learning GenAI/LLMs 🤖.
 ## What's here: 
 - 🐍 Python automation tools
 - 🌐 Web applications  
-- 🧠 AI experiments
+- 🤖 AI Agents (Strands SDK, Strands Eval, Claude, CrewAI)
+- 🔭 Currently working on building automations and AI Agents to get rid of repetitive and boring tasks.
 
 ---
 *"I speak fluent stakeholder, engineer, and Python - sometimes all in the same meeting."* 💬
