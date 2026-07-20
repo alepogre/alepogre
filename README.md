@@ -1,21 +1,20 @@
 ## Hi there, I'm Alex 👋
 
-**Program Manager** with 7+ years in digital transformation and product management with a background in Information Systems.
+**AI Engineer** specializing in AWS-native GenAI systems, with 7+ years in cloud architecture, product ownership, and digital transformation.
 
-I build automation scripts and web apps (because waiting for IT tickets is for people with more patience than me 🤷‍♂️). 
+I design and ship AI agents, RAG pipelines, and automations on AWS.
 
-Currently learning GenAI/LLMs 🤖.
+🔭 Currently building AI platforms spanning from ingestion pipelines, RAGs and multi agent setups.
 
+📜 Certifications: AWS Solutions Architect Associate, ML Engineer Associate, Data Engineer Associate, Generative AI Developer – Professional
 
-## What's here: 
-- 🐍 Python automation tools
-- 🌐 Web applications  
-- 🤖 AI Agents (Strands SDK, Strands Eval, Claude, CrewAI)
-- 🔭 Currently working on building automations and AI Agents to get rid of repetitive and boring tasks.
+## My Stack:
+- AWS — Bedrock, Bedrock Knowledge Bases, AgentCore, Textract, Comprehend, Lambda, OpenSearch, Step Functions, Neptune, DynamoDB
+- Python
+- AI Agents — Strands SDK, Claude, CrewAI, LangChain, LangGraph, LlamaIndex
+- RAGAS, Promptfoo, Strands Eval
 
 ---
-*"I speak fluent stakeholder, engineer, and Python - sometimes all in the same meeting."* 💬
-
 
 <!--
 **alepogre/alepogre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
