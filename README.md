@@ -11,7 +11,7 @@ I design and ship AI agents, RAG pipelines, and automations on AWS.
 ## My Stack:
 - AWS — Bedrock, Bedrock Knowledge Bases, AgentCore, Textract, Comprehend, Lambda, OpenSearch, Step Functions, Neptune, DynamoDB
 - Python
-- AI Agents — Strands SDK, Claude, CrewAI, LangChain, LangGraph, LlamaIndex
+- AI Agents — Strands SDK, LangChain, LangGraph
 - RAGAS, Promptfoo, Strands Eval
 
 ---
